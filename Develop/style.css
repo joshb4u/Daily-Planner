@@ -69,3 +69,18 @@ textarea{
   font-size: 20px;
   transition: all .3s ease-in-out;
 }
+
+/*  */
+time{
+  display:inline-block;
+}
+.form-control-lg{
+  display:inline-block !important;
+}
+#planner-box{
+  margin:auto;
+}
+.btn-info{
+  margin-bottom:10px;
+  height:48px;
+}
